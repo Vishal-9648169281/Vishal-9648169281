@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:7c3aed&height=180&section=header&text=Hi!%20I'm%20Vishal%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20Source&descSize=15&descAlignY=58&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:7c3aed&height=180&section=header&text=Hi!%20I'm%20Vishal%20👋&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20Source&descSize=14&descAlignY=60&animation=fadeIn" width="100%">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+AI-powered+tools+🤖;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🌟;College+Student+%7C+Self-taught+Dev+🎓;Turning+Ideas+into+Products+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Building+AI-powered+tools+🤖;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🌟;College+Student+%7C+Self-taught+Dev+🎓;Turning+Ideas+into+Products+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,12 @@
 
 ```javascript
 const vishal = {
-  role:        "Full Stack Developer & AI Builder",
-  education:   "Computer Science Engineering",
-  location:    "India 🇮🇳",
-  building:    "LinkedInAI – Auto Job Applier Chrome Extension",
-  learning:    ["LLM Integrations", "Chrome Extensions", "System Design"],
-  goal:        "Building products that solve real problems",
-  funFact:     "I automated my own job search with AI 🤖"
+  role:     "Full Stack Developer & AI Builder",
+  location: "India 🇮🇳",
+  building: "LinkedInAI – Auto Job Applier Extension",
+  learning: ["LLM Integrations", "Chrome Extensions", "DSA"],
+  goal:     "Building products that solve real problems",
+  funFact:  "I automated my own job search with AI 🤖"
 };
 ```
 
@@ -28,10 +27,9 @@ const vishal = {
 
 ## 🔥 What I Do
 
-- 🤖 Build **AI-powered tools** using LLMs (Gemini, Claude)
-- 🌐 Develop **full-stack web apps** (React, Node.js)
+- 🤖 Build **AI-powered tools** using Gemini & LLMs
+- 🌐 Develop **full-stack web apps** with React & Node.js
 - 🔌 Create **Chrome Extensions** with real-world impact
-- 📱 Design **responsive UIs** that users love
 - 🚀 Ship products from **idea → deployed**
 
 ## 🎯 Currently
@@ -39,7 +37,6 @@ const vishal = {
 - 🛠️ Building [LinkedInAI](https://github.com/Vishal-9648169281/auto_apply_extension) — AI Job Applier Extension
 - 📚 Studying **System Design & DSA**
 - 🤝 Open to **internships & entry-level roles**
-- 💡 Working on **open-source projects**
 
 ---
 
@@ -51,16 +48,15 @@ const vishal = {
 
 </div>
 
-### ⚡ LinkedInAI — AI Job Application Chrome Extension
+**⚡ LinkedInAI — AI Job Application Chrome Extension**
 
 > *Built to solve my own job search struggle — now open source!*
 
-- 🎯 **Problem:** Applying to 50+ jobs manually takes hours
-- 💡 **Solution:** Chrome extension that auto-applies with AI-written answers
-- 🤖 **AI:** Google Gemini 1.5 Flash (free API — 1M tokens/day)
-- 📧 **Email:** Automated daily summary via EmailJS
-- 💰 **Cost:** ₹0 / $0 — completely free stack
-- ✨ **Bonus:** AI LinkedIn post generator to attract recruiters
+- 🎯 Auto-applies to LinkedIn jobs using Google Gemini AI
+- 📝 Fills every form field with personalized AI answers
+- ✍️ Generates viral LinkedIn posts to attract recruiters
+- 📧 Daily email summary at 9 PM
+- 💰 **Cost: ₹0 / $0 — completely free**
 
 ---
 
@@ -68,31 +64,19 @@ const vishal = {
 
 <div align="center">
 
-**Languages**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & Database**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI & Tools**
-
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -104,15 +88,11 @@ const vishal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-9648169281&show_icons=true&theme=tokyonight&border_color=0a66c2&title_color=0a66c2&icon_color=7c3aed&include_all_commits=true&count_private=true" width="100%" style="max-width:450px">
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal-9648169281&show_icons=true&theme=tokyonight&border_color=0a66c2&title_color=0a66c2&icon_color=7c3aed&include_all_commits=true&count_private=true" width="100%">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-9648169281&layout=compact&theme=tokyonight&border_color=0a66c2&title_color=0a66c2&langs_count=6" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-9648169281&layout=compact&theme=tokyonight&border_color=0a66c2&title_color=0a66c2&langs_count=8" width="100%" style="max-width:350px">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-9648169281&theme=tokyonight&border=0a66c2&ring=0a66c2&fire=7c3aed&currStreakLabel=0a66c2" width="100%" style="max-width:450px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-9648169281&theme=tokyonight&border=0a66c2&ring=0a66c2&fire=7c3aed&currStreakLabel=0a66c2" width="100%">
 
 </div>
 
@@ -128,7 +108,7 @@ const vishal = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity
 
 <div align="center">
 
@@ -138,13 +118,13 @@ const vishal = {
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalyadavdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishal-9648169281)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalyaduvansi8081@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalyaduvansi8081@gmail.com)
 
 <br>
 
